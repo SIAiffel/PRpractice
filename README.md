@@ -4,9 +4,9 @@
 
 ## Github 사용규칙 (필독!!)
 
-File Name은 자유입니다! (단! 띄어쓰기, 특수문자, 한글 금지!!!) 예시) MobileNet_baseline
-Commit message 역시나 자유입니다. 단, 실무에서 처럼 영어를 사용해보는게 좋을 듯 합니다. 예시) Add MobileNet_baseline
-Issue를 쓸 때는 꼭 해당 게시글 링크를 함께 업로드해주세요.
+- File Name은 자유입니다! (단! 띄어쓰기, 특수문자, 한글 금지!!!) 예시) MobileNet_baseline
+- Commit message 역시나 자유입니다. 단, 실무에서 처럼 영어를 사용해보는게 좋을 듯 합니다. 예시) Add MobileNet_baseline
+- Issue를 쓸 때는 꼭 해당 게시글 링크를 함께 업로드해주세요.
 
 ## Git 사용법
 
