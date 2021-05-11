@@ -7,6 +7,7 @@
 - File Name은 자유입니다! (단! 띄어쓰기, 특수문자, 한글 금지!!!) 예시) MobileNet_baseline
 - Commit message 역시나 자유입니다. 단, 실무에서 처럼 영어를 사용해보는게 좋을 듯 합니다. 예시) Add MobileNet_baseline
 - Issue를 쓸 때는 꼭 해당 게시글 링크를 함께 업로드해주세요.
+- [좋은 커밋메시지 예시](https://velog.io/@hyeong412/TIL-%EC%A2%8B%EC%9D%80-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-)
 
 ## Git 사용법
 
